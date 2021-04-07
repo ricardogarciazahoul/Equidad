@@ -1,0 +1,72 @@
+body {
+	background-color: #3BB6CA;
+	background-image: url(https://conceptodefinicion.de/wp-content/uploads/2014/10/Equidad_de_Genero.jpg);
+	background-size: 100%
+}
+h1 {
+	font-family: 'Shadows Into Light', cursive;
+	font-size: 50px;
+	color: red;
+	text-align: center;
+	word-spacing: 0.3cm;
+}
+hr	{
+	width: 80%;
+	height: 15px;
+	border: solid;
+	border-color: purple;
+	background: purple;
+	border-radius: 2cm;
+}
+h2 {
+	font-family: 'Caveat', cursive;
+	font-size: 50px;
+	color: blue;
+	text-align: center;
+	word-spacing: 0.3cm;
+}
+p {
+	font-family: 'Pacifico', cursive;
+	font-size: 20px;
+	color: purple;
+	text-align: justify;
+	word-spacing: 0.3cm;
+	letter-spacing: 0.1cm;
+	font-variant-position: super;
+	width: 45%;
+	border-right-style: solid;
+	border-color: blue;
+	border-width: 10px;
+	background: gray; 
+}
+img {
+	float: right;
+	right: 25%;
+	position: relative;
+}
+ul	{
+	list-style-type: circle;
+}
+.gif1 {
+	float: right;
+	position: relative;
+	right: 35%;
+}
+.png1 {
+	position: relative;
+	left: 15%;
+}
+.p3 {
+	font-family: 'Roboto', sans-serif;
+	font-size: 20px;
+	color: green;
+	text-align: justify;
+	word-spacing: 0.3cm;
+	letter-spacing: 0.1cm;
+	font-variant-position: super;
+	width: 45%;
+	border-right-style: solid;
+	border-color: blue;
+	border-width: 10px;
+	background: gray; 
+}
